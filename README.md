@@ -1,4 +1,4 @@
-Cordova FileChooser Plugin
+h1. Cordova FileChooser Plugin
 
 Originally created by [don](https://github.com/don/cordova-filechooser). 
 
