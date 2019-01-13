@@ -1,10 +1,14 @@
-h1. Cordova FileChooser Plugin
+# Cordova FileChooser Plugin
 
 Originally created by [don](https://github.com/don/cordova-filechooser). 
 
 Forked to create an NPM compatible package, so it's installable via the CLI. 
 
+# Requirements
+
 Requires Cordova >= 2.8.0
+
+# Installation
 
 Install with Cordova CLI
 	
@@ -14,6 +18,8 @@ Install with Plugman
 
 	$ plugman --platform android --project /path/to/project \ 
 		--plugin http://github.com/don/cordova-filechooser.git
+		
+# Usage
 
 API
 
