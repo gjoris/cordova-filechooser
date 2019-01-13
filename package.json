@@ -1,6 +1,6 @@
 {
   "name": "cordova-filechooser",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Cordova Plugin that supplies a File Chooser",
   "cordova": {
     "id": "cordova-filechooser",
@@ -16,12 +16,12 @@
     "ecosystem:cordova",
     "cordova-android"
   ],
-  "engines": [
+  "engines": 
     {
       "name": "cordova",
       "version": ">=2.8.0"
     }
-  ],
+  ,
   "author": "Geroen Joris",
   "license": "Apache 2.0",
   "bugs": {
